@@ -1,5 +1,7 @@
 # GitHubExercise
 
+![adafruit_mqtt_gpio](https://cloud.githubusercontent.com/assets/5313064/14941624/08a98782-0fa2-11e6-9ed0-8cd03f022129.jpg)
+
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
