@@ -20,6 +20,8 @@ https://cloud.githubusercontent.com/assets/5313064/14941634/71f8a290-0fa2-11e6-8
 
 ubExercise/blob/master/images/logo.png)
 ![](https://github.com/jgmbrand/GitHubExercise/blob/master/images/logo.png)  
+
+![]https://github.com/jgmbrand/GitHubExercise/blob/master/images/logo.png
 Lists
 
 Unordered
