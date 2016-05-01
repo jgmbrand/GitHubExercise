@@ -23,6 +23,8 @@ __This will also be bold__
 ![](https://github.com/jgmbrand/GitHubExercise/images/logo.png)  
 
 
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
+
 Lists
 
 Unordered
