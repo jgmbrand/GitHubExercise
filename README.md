@@ -35,9 +35,9 @@ Ordered
    * Item 3b
 Images
 
-![](./images/logo.png)
-![GitHub Logo](./images/logo.png)
-![GitHub Logo](./images/logo.png)  
+![](images/logo.png)
+![](images/logo.png)
+![](images/logo.png)  
 Format: ![Alt Text]
 
 Links
