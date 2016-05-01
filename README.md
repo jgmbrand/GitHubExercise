@@ -42,15 +42,12 @@ Format: ![Alt Text]
 
 Links
 
-http://github.com - automatic!
+http://github.com - automatic!  
 [GitHub](http://github.com)
 Blockquotes
 
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+> We're living the future so  
+> the present is our past.  
 Inline code
-
-I think you should use an
-`<addr>` element here instead.
