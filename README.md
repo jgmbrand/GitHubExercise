@@ -14,6 +14,8 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+![ai_thinker_development_board](https://cloud.githubusercontent.com/assets/5313064/14941634/71f8a290-0fa2-11e6-8011-23c8a2df0137.jpg)
+
 Lists
 
 Unordered
