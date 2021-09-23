@@ -4,10 +4,15 @@
  * author unknown
  * updated by chegewara
  */
+/**
+ * A BLE client example that is rich in capabilities.
+ * There is a lot new capabilities implemented.
+ * author unknown
+ * updated by chegewara
+ */
 
 
 #include "BLEDevice.h"
-//#include "BLEScan.h"
 
 // The remote service we wish to connect to.
 static BLEUUID serviceUUID("4fafc201-1fb5-459e-8fcc-c5c9c331914b");
